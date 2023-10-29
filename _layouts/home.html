@@ -4,10 +4,13 @@ layout: default
 
 <div class="home">
 
-    <h1>About {{ site.course_name }} <span style="font-size: 20px;color: #0006;">{% if site.course_semester %}/ {{ site.course_semester }} {% endif %}</span></h1>
+    {% include apply_block.html %}
+    <br>
 
     {% include announcements.html %}
-    <br />
+    <br>
+
+    <h1>About {{ site.course_name }} <span style="font-size: 20px;color: #0006;">{% if site.course_semester %}/ {{ site.course_semester }} {% endif %}</span></h1>
 
     {% if site.course_description  %}
     <h2>Course Description</h2>
@@ -25,27 +28,31 @@ layout: default
     </ul>
     {% endif %}
 
-    <br>
     <div>
-        <div style="float: left">
+        <div>
             <!-- <h2>Instructors</h2> -->
             <!-- <div class="image--cover-container">
                 <img src="{{site.data.people.instructor.profile_pic | prepend: site.baseurl }}" class="image--cover">
                 <p>{{site.data.people.instructor.name}}</p>
             </div> -->
 
-            <div class="profile-pic-gallary ">
+            <div class="profile-pic-gallary">
                 <h2>Organisers</h2>
-                {% for ins in site.data.people.instructors %}
-                <div class="image--cover-container">
-                    <img src="{{ins.profile_pic | prepend: site.baseurl }}" class="image--cover">
-                    {% if ins.webpage %}
-                    <p><a href="{{ ins.webpage }}">{{ins.name}}</a></p>
-                    {% else %}
-                    <p>{{ins.name}}</p>
-                    {% endif %}
+                <div class="instructor-list">
+                    {% for ins in site.data.people.instructors %}
+                    <div class="image--cover-container">
+                        <div class="profile-pic">
+                            <img src="{{ins.profile_pic | prepend: site.baseurl }}" class="image--cover">
+                            {% if ins.webpage %}
+                            <p><a href="{{ ins.webpage }}">{{ins.name}}</a></p>
+                            {% else %}
+                            <p>{{ins.name}}</p>
+                            {% endif %}
+                        </div>
+                        <p class="bio">{{ins.bio}}</p>
+                    </div>
+                    {% endfor %}
                 </div>
-                {% endfor %}
             </div>
         </div>
 
@@ -69,4 +76,21 @@ layout: default
         {% endif  %}
         -->
     </div>
+
+    <h2>Endorsement</h2>
+    <blockquote>
+      PyNoon is an exciting new community training initiative for
+      NZPUG. The popularity of Python is exploding and we want to make
+      it as easy as possible for people in a wide range of industries
+      to write high-quality, well-engineered Python code. PyNoon is
+      also an excellent entry point into the wider New Zealand Python
+      community.
+      <div style="text-align: right; padding-top: 1em;">
+        - Danny Adair, founder and past President of the NZ Python User Group
+      </div>
+    </blockquote>
+
+    <h2>Course Location</h2>
+    <p style="font-weight: bold;">136 Fanshawe Street, Auckland CBD:</p>
+    <iframe style="width: 100%; height: 350px;" src="https://www.openstreetmap.org/export/embed.html?bbox=174.7557717561722%2C-36.84738848547226%2C174.75931227207187%2C-36.84541377263039&amp;layer=mapnik&amp;marker=-36.846401135426404%2C174.757542014122"></iframe>
 </div>

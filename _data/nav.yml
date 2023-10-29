@@ -10,7 +10,13 @@ items:
 - url: https://pynoon.slack.com
   name: Slack
   icon_class: fas fa-comments
+  target_blank: true
 
 - url: https://pynoon.github.io/jupyterlite
   name: JupyterLite
   icon_class: fas fa-lightbulb
+  target_blank: true
+
+- url: /contact/
+  name: Contact Us
+  icon_class: fas fa-envelope
