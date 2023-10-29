@@ -17,6 +17,10 @@ items:
   icon_class: fas fa-lightbulb
   target_blank: true
 
+- url: /vision/
+  name: Vision
+  icon_class: fas fa-eye
+
 - url: /contact/
   name: Contact Us
   icon_class: fas fa-envelope
