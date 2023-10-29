@@ -1,7 +1,9 @@
 ---
 type: raw_event
-date: 2019-01-26T08:00:00+3:30
+date: 2024-03-04T11:30:00
 name: Session
-description: 'Sample Raw Event'
+description: 'Session 9'
 hide_from_announcments: true
 ---
+
+TBA
