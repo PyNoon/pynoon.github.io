@@ -25,7 +25,7 @@ putting Python to work.
 * **Note:** BYO lunch and laptop (food outlets in building and guest
   WiFi)
 
-<a class="flyer" href="{{ '/static_files/pynoon_flyer_2023.pdf' | prepend: site.baseurl }}" download>Download a shareable flyer</a>
+<a class="flyer" href="{{ '/static_files/pynoon_flyer_2023.pdf' | prepend: site.baseurl }}" target="_blank" rel="noopener">Download a shareable flyer</a>
 
 ## Learning objectives
 
