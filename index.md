@@ -22,6 +22,7 @@ putting Python to work.
 * **Where:** 136 Fanshawe Street, Auckland CBD
 * **Duration:** 10 weeks
 * **Cost:** Free (community initiative)
+* **No prior programming experience required**
 * **Note:** BYO lunch and laptop (food outlets in building and guest
   WiFi)
 
