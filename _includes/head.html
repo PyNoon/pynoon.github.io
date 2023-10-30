@@ -17,7 +17,7 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta property="og:image" content="{{ '/_images/logo.png' | prepend: site.baseurl | prepend: site.url }}" />
+  <meta property="og:image" content="{{ '_images/logo.png' | prepend: site.url }}" />
 
   <title>{% if page.title %} {{ page.title }} - {{ site.course_name }}{% if site.course_semester %} / {{ site.course_semester }} {% endif %}{% else %}{{ site.course_name }}{% if site.course_semester %} / {{ site.course_semester }}{% endif %}{%if site.schoolname %} - {{ site.schoolname }}{% endif %}{% endif %}</title>
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ page.title }} - {{ site.course_name }}{% if site.course_semester %} / {{ site.course_semester }}{% endif %}{% endif %}">
