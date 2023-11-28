@@ -12,8 +12,8 @@ items:
   icon_class: fas fa-comments
   target_blank: true
 
-- url: https://pynoon.github.io/jupyterlite
-  name: JupyterLite
+- url: https://colab.google
+  name: Colab Notebooks
   icon_class: fas fa-lightbulb
   target_blank: true
 
@@ -24,3 +24,7 @@ items:
 - url: /contact/
   name: Contact Us
   icon_class: fas fa-envelope
+
+- url: https://pynoon.github.io/jupyterlite
+  name: (Old) JupyterLite
+  target_blank: true
