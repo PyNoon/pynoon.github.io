@@ -4,6 +4,8 @@ title: Schedule
 permalink: /schedule/
 ---
 
+<h2>Session Structure</h2>
+
 <style>
     .structure-table {
         border-spacing: 0;
@@ -22,11 +24,6 @@ permalink: /schedule/
     }
 </style>
 <table class="structure-table">
-    <thead>
-        <tr>
-            <th colspan="2">Session Structure</th>
-        </tr>
-    </thead>
     <tbody>
         <tr>
             <td class="time">11:30am - 12:00pm</td>
@@ -49,3 +46,28 @@ permalink: /schedule/
         </tr>
     </tbody>
 </table>
+
+<h2>Data Resources</h2>
+
+<ul>
+    <li>
+        <a target="_blank" rel="noopener" href="{{ '/data/inside_airbnb_listings_nz_2023_09.csv' | prepend: site.baseurl }}"><code>inside_airbnb_listings_nz_2023_09.csv</code></a>
+        <ul>
+            <li>
+                <code>listings_df = pd.read_csv('{{site.url}}/data/inside_airbnb_listings_nz_2023_09.csv')</code>
+            </li>
+            <li>
+                Provided under a
+                <a target="_blank" rel="noopener" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>
+                by
+                <a target="_blank" rel="noopener" href="http://insideairbnb.com/">Inside AirBnB</a>.
+            </li>
+            <li>
+                Learn more about what column from the
+                <a target="_blank" rel="noopener" href="https://docs.google.com/spreadsheets/d/1iWCNJcSutYqpULSQHlNyGInUvHg2BoUGoNRIGa6Szc4/edit#gid=1322284596">Data Dictionary</a>.
+            </li>
+        </ul>
+    </li>
+</ul>
+
+<h2>Sessions</h2>
