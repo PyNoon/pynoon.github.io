@@ -36,7 +36,7 @@ permalink: /schedule/
                 <ul style="margin-bottom: 0;">
                     <li>Lunch and networking</li>
                     <li>Short whiteboard lesson</li>
-                    <li>Intsructor-led live coding</li>
+                    <li>Instructor-led live coding</li>
                 </ul>
             </td>
         </tr>
