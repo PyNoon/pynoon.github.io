@@ -51,10 +51,10 @@ permalink: /schedule/
 
 <ul>
     <li>
-        <a target="_blank" rel="noopener" href="{{ '/data/inside_airbnb_listings_nz_2023_09.csv' | prepend: site.baseurl }}"><code>inside_airbnb_listings_nz_2023_09.csv</code></a>
+        <a target="_blank" rel="noopener" href="{{ 'data/inside_airbnb_listings_nz_2023_09.csv' | absolute_url }}"><code>inside_airbnb_listings_nz_2023_09.csv</code></a>
         <ul>
             <li>
-                <code>listings_df = pd.read_csv('{{site.url}}/data/inside_airbnb_listings_nz_2023_09.csv')</code>
+                <code>listings_df = pd.read_csv('{{ 'data/inside_airbnb_listings_nz_2023_09.csv' | absolute_url }}')</code>
             </li>
             <li>
                 Provided under a
