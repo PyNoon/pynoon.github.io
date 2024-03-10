@@ -6,4 +6,5 @@ description: 'Session 10'
 hide_from_announcments: true
 ---
 
-TBA
+
+* [Slides](https://pynoon.github.io/curriculum/week_10/slides.html){:target="_blank"}{:rel="noopener"}
