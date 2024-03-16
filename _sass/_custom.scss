@@ -45,6 +45,10 @@ h2 {
 
 .footer-col-wrapper {
     display: flex;
+
+    @media only screen and (max-width: 600px) {
+        flex-direction: column;
+    }
 }
 
 .apply-block {
