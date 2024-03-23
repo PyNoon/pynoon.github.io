@@ -55,6 +55,7 @@ GEM
       jekyll-sass-converter (= 1.5.2)
       jekyll-seo-tag (= 2.8.0)
       jekyll-sitemap (= 1.4.0)
+      jekyll-sitemap (~> 1.4.0)
       jekyll-swiss (= 1.0.0)
       jekyll-theme-architect (= 0.2.0)
       jekyll-theme-cayman (= 0.2.0)
@@ -265,6 +266,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   jekyll-feed (~> 0.12)
+  jekyll-sitemap (~> 1.4.0)
   minima (~> 2.5)
   tzinfo (~> 1.2)
   tzinfo-data

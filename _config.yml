@@ -51,3 +51,12 @@ defaults:
       type: "assignments"
     values:
       layout: "assignment"
+  - scope:
+      path: ""
+      type: "events"
+    values:
+      sitemap: false
+
+
+plugins:
+  - jekyll-sitemap
