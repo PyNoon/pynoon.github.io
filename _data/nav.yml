@@ -3,14 +3,13 @@ items:
   name: Home
   icon_class: fa fa-home fa-lg
 
-- url: /schedule/
-  name: Schedule
+- url: /courses/
+  name: Courses
   icon_class: fas fa-calendar-alt
 
-- url: https://pynoon.slack.com
-  name: Slack
-  icon_class: fas fa-comments
-  target_blank: true
+- url: /lessons/
+  name: Lessons
+  icon_class: fas fa-book
 
 - url: https://colab.google
   name: Colab Notebooks
@@ -24,7 +23,3 @@ items:
 - url: /contact/
   name: Contact Us
   icon_class: fas fa-envelope
-
-- url: https://pynoon.github.io/jupyterlite
-  name: (Old) JupyterLite
-  target_blank: true

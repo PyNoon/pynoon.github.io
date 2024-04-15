@@ -30,3 +30,27 @@ do an hour of extra on-line learning between sessions.
 independent project work according to individual interests and work
 needs. This is the chance to consolidate learning into something
 useful.
+
+
+To learn more about the TechNoon movement behind PyNoon, check out the
+[TechNoon manifesto](https://technoon.org/manifesto/).
+
+
+<div class="profile-pic-gallary">
+    <h2>Founders</h2>
+    <div class="instructor-list">
+        {% for ins in site.data.people.instructors %}
+        <div class="image--cover-container">
+            <div class="profile-pic">
+                <img src="{{ins.profile_pic | prepend: site.baseurl }}" class="image--cover">
+                {% if ins.webpage %}
+                <p><a href="{{ ins.webpage }}">{{ins.name}}</a></p>
+                {% else %}
+                <p>{{ins.name}}</p>
+                {% endif %}
+            </div>
+            <p class="bio">{{ins.bio}}</p>
+        </div>
+        {% endfor %}
+    </div>
+</div>
