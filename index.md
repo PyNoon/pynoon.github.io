@@ -46,7 +46,7 @@ putting Python to work.
 
 ## Learning objectives
 
-PyNoon is run as a series of **three four-week** courses. You can
+PyNoon is run as a series of **three 3-4 week** courses. You can
 choose to attend the courses that match your interests and skill
 level:
 

@@ -6,7 +6,7 @@ permalink: /lessons/
 
 # PyNoon Lessons
 
-PyNoon is run as a series of **three four-week** courses. You can
+PyNoon is run as a series of **three 3-4 week** courses. You can
 choose to attend the courses that match your interests and skill
 level:
 
@@ -35,50 +35,44 @@ Each week's lesson comprises:
         <div class="col col-4">Course Material</div>
     </li>
     <li>
-        <div class="col col-1">1-1</div>
+        <div class="col col-1">starter-1</div>
         <div class="col col-1-2">About the course</div>
         <div class="col col-2">The Python console, scripts, notebooks, basic maths</div>
         <div class="col col-3">The Shell, String Basics, Variables</div>
         <div class="col col-4 markdown-content">
             <ul>
-                <li><a href="https://pynoon.github.io/curriculum/week_1/slides.html" target="_blank" rel="noopener">Slides</a></li>
-                <li><a href="https://colab.research.google.com/github/pynoon/curriculum/blob/main/week_1/week_1_tutorial.ipynb" target="_blank" rel="noopener">Tutorial Notebook</a></li>
-                <li><a href="https://colab.research.google.com/github/pynoon/curriculum/blob/main/week_1/week_1_exercise.ipynb" target="_blank" rel="noopener">Exercise Notebook</a></li>
+                <li><a href="https://pynoon.github.io/curriculum/tutorial/pynoon_introduction.pdf" target="_blank" rel="noopener">Intro Slides</a></li>
+                <li><a href="https://pynoon.github.io/curriculum/lesson_starter_1/slides.html" target="_blank" rel="noopener">Slides</a></li>
+                <li><a href="https://colab.research.google.com/github/pynoon/curriculum/blob/main/lesson_starter_1/lesson_starter_1_tutorial.ipynb" target="_blank" rel="noopener">Tutorial Notebook</a></li>
+                <li><a href="https://colab.research.google.com/github/pynoon/curriculum/blob/main/lesson_starter_1/lesson_starter_1_exercise.ipynb" target="_blank" rel="noopener">Exercise Notebook</a></li>
             </ul>
         </div>
     </li>
     <li>
-        <div class="col col-1">1-2</div>
-        <div class="col col-1-2">N/A</div>
-        <div class="col col-2">Variables, data types, indexing and slicing</div>
+        <div class="col col-1">starter-2</div>
+        <div class="col col-1-2">Data types</div>
+        <div class="col col-2">Variables, indexing and slicing</div>
         <div class="col col-3">For loops</div>
         <div class="col col-4 markdown-content">
             <ul>
-                <li><a href="https://pynoon.github.io/curriculum/week_2/slides.html" target="_blank" rel="noopener">Slides</a></li>
-                <li><a href="https://colab.research.google.com/github/pynoon/curriculum/blob/main/week_2/week_2_tutorial.ipynb" target="_blank" rel="noopener">Tutorial Notebook</a></li>
-                <li><a href="https://colab.research.google.com/github/pynoon/curriculum/blob/main/week_2/week_2_exercise.ipynb" target="_blank" rel="noopener">Exercise Notebook</a></li>
+                <li><a href="https://pynoon.github.io/curriculum/lesson_starter_2/slides.html" target="_blank" rel="noopener">Slides</a></li>
+                <li><a href="https://colab.research.google.com/github/pynoon/curriculum/blob/main/lesson_starter_2/lesson_starter_2_tutorial.ipynb" target="_blank" rel="noopener">Tutorial Notebook</a></li>
+                <li><a href="https://colab.research.google.com/github/pynoon/curriculum/blob/main/lesson_starter_2/lesson_starter_2_exercise.ipynb" target="_blank" rel="noopener">Exercise Notebook</a></li>
             </ul>
         </div>
     </li>
     <li>
-        <div class="col col-1">1-3</div>
-        <div class="col col-1-2">DRY: Don't Repeat Yourself</div>
-        <div class="col col-2">Defining and using your own functions, reducing duplication in your code</div>
+        <div class="col col-1">starter-3</div>
+        <div class="col col-1-2">Using built-in functions</div>
+        <div class="col col-2">Lists and dictionaries</div>
         <div class="col col-3">If statements</div>
         <div class="col col-4 markdown-content">
             <ul>
-                <li><a href="https://pynoon.github.io/curriculum/week_6/slides.html" target="_blank" rel="noopener">Slides</a></li>
-                <li><a href="https://colab.research.google.com/github/pynoon/curriculum/blob/main/week_6/week_6_tutorial.ipynb" target="_blank" rel="noopener">Tutorial Notebook</a></li>
-                <li><a href="https://colab.research.google.com/github/pynoon/curriculum/blob/main/week_6/week_6_exercise.ipynb" target="_blank" rel="noopener">Exercise Notebook</a></li>
+                <li><a href="https://pynoon.github.io/curriculum/lesson_starter_3/slides.html" target="_blank" rel="noopener">Slides</a></li>
+                <li><a href="https://colab.research.google.com/github/pynoon/curriculum/blob/main/lesson_starter_3/lesson_starter_3_tutorial.ipynb" target="_blank" rel="noopener">Tutorial Notebook</a></li>
+                <li><a href="https://colab.research.google.com/github/pynoon/curriculum/blob/main/lesson_starter_3/lesson_starter_3_exercise.ipynb" target="_blank" rel="noopener">Exercise Notebook</a></li>
             </ul>
         </div>
-    </li>
-    <li>
-        <div class="col col-1">1-4</div>
-        <div class="col col-1-2">N/A</div>
-        <div class="col col-2">Extended independent work with instructor support</div>
-        <div class="col col-3">N/A</div>
-        <div class="col col-4 markdown-content"></div>
     </li>
 </ul>
 
@@ -93,50 +87,57 @@ Each week's lesson comprises:
         <div class="col col-4">Course Material</div>
     </li>
     <li>
-        <div class="col col-1">2-1</div>
-        <div class="col col-1-2">N/A</div>
-        <div class="col col-2">Using third-party libraries, loading and exploring tabular data with Pandas, intro to Plotly</div>
+        <div class="col col-1">data-1</div>
+        <div class="col col-1-2">About the course and using libraries</div>
+        <div class="col col-2">Loading and exploring tabular data with Pandas, intro to Plotly</div>
         <div class="col col-3">Lists</div>
         <div class="col col-4 markdown-content">
             <ul>
-                <li><a href="https://pynoon.github.io/curriculum/week_3/slides.html" target="_blank" rel="noopener">Slides</a></li>
-                <li><a href="https://colab.research.google.com/github/pynoon/curriculum/blob/main/week_3/week_3_tutorial.ipynb" target="_blank" rel="noopener">Tutorial Notebook</a></li>
-                <li><a href="https://colab.research.google.com/github/pynoon/curriculum/blob/main/week_3/week_3_exercise.ipynb" target="_blank" rel="noopener">Exercise Notebook</a></li>
+                <li><a href="https://pynoon.github.io/curriculum/tutorial/pynoon_introduction.pdf" target="_blank" rel="noopener">Intro Slides</a></li>
+                <li><a href="https://pynoon.github.io/curriculum/lesson_data_1/slides.html" target="_blank" rel="noopener">Slides</a></li>
+                <li><a href="https://colab.research.google.com/github/pynoon/curriculum/blob/main/lesson_data_1/lesson_data_1_tutorial.ipynb" target="_blank" rel="noopener">Tutorial Notebook</a></li>
+                <li><a href="https://colab.research.google.com/github/pynoon/curriculum/blob/main/lesson_data_1/lesson_data_1_exercise.ipynb" target="_blank" rel="noopener">Exercise Notebook</a></li>
             </ul>
         </div>
     </li>
     <li>
-        <div class="col col-1">2-2</div>
+        <div class="col col-1">data-2</div>
         <div class="col col-1-2">Comparison operators</div>
         <div class="col col-2">Filtering rows in Pandas, computing new columns in Pandas</div>
         <div class="col col-3">A bit more about strings, nested loops</div>
         <div class="col col-4 markdown-content">
             <ul>
-                <li><a href="https://pynoon.github.io/curriculum/week_4/slides.html" target="_blank" rel="noopener">Slides</a></li>
-                <li><a href="https://colab.research.google.com/github/pynoon/curriculum/blob/main/week_4/week_4_tutorial.ipynb" target="_blank" rel="noopener">Tutorial Notebook</a></li>
-                <li><a href="https://colab.research.google.com/github/pynoon/curriculum/blob/main/week_4/week_4_exercise.ipynb" target="_blank" rel="noopener">Exercise Notebook</a></li>
+                <li><a href="https://pynoon.github.io/curriculum/lesson_data_2/slides.html" target="_blank" rel="noopener">Slides</a></li>
+                <li><a href="https://colab.research.google.com/github/pynoon/curriculum/blob/main/lesson_data_2/lesson_data_2_tutorial.ipynb" target="_blank" rel="noopener">Tutorial Notebook</a></li>
+                <li><a href="https://colab.research.google.com/github/pynoon/curriculum/blob/main/lesson_data_2/lesson_data_2_exercise.ipynb" target="_blank" rel="noopener">Exercise Notebook</a></li>
             </ul>
         </div>
     </li>
     <li>
-        <div class="col col-1">2-3</div>
+        <div class="col col-1">data-3</div>
         <div class="col col-1-2">Intro to Software Design</div>
         <div class="col col-2">Grouping and summarising data in Pandas and Plotly</div>
+        <div class="col col-3">Functions</div>
+        <div class="col col-4 markdown-content">
+            <ul>
+                <li><a href="https://pynoon.github.io/curriculum/lesson_data_3/slides.html" target="_blank" rel="noopener">Slides</a></li>
+                <li><a href="https://colab.research.google.com/github/pynoon/curriculum/blob/main/lesson_data_3/lesson_data_3_tutorial.ipynb" target="_blank" rel="noopener">Tutorial Notebook</a></li>
+                <li><a href="https://colab.research.google.com/github/pynoon/curriculum/blob/main/lesson_data_3/lesson_data_3_exercise.ipynb" target="_blank" rel="noopener">Exercise Notebook</a></li>
+            </ul>
+        </div>
+    </li>
+    <li>
+        <div class="col col-1">data-4</div>
+        <div class="col col-1-2">DRY: Don't Repeat Yourself</div>
+        <div class="col col-2">Defining and using your own functions, reducing duplication in your code</div>
         <div class="col col-3">Dictionaries</div>
         <div class="col col-4 markdown-content">
             <ul>
-                <li><a href="https://pynoon.github.io/curriculum/week_5/slides.html" target="_blank" rel="noopener">Slides</a></li>
-                <li><a href="https://colab.research.google.com/github/pynoon/curriculum/blob/main/week_5/week_5_tutorial.ipynb" target="_blank" rel="noopener">Tutorial Notebook</a></li>
-                <li><a href="https://colab.research.google.com/github/pynoon/curriculum/blob/main/week_5/week_5_exercise.ipynb" target="_blank" rel="noopener">Exercise Notebook</a></li>
+                <li><a href="https://pynoon.github.io/curriculum/lesson_data_4/slides.html" target="_blank" rel="noopener">Slides</a></li>
+                <li><a href="https://colab.research.google.com/github/pynoon/curriculum/blob/main/lesson_data_4/lesson_data_4_tutorial.ipynb" target="_blank" rel="noopener">Tutorial Notebook</a></li>
+                <li><a href="https://colab.research.google.com/github/pynoon/curriculum/blob/main/lesson_data_4/lesson_data_4_exercise.ipynb" target="_blank" rel="noopener">Exercise Notebook</a></li>
             </ul>
         </div>
-    </li>
-    <li>
-        <div class="col col-1">2-4</div>
-        <div class="col col-1-2">N/A</div>
-        <div class="col col-2">Extended independent work with instructor support</div>
-        <div class="col col-3">N/A</div>
-        <div class="col col-4 markdown-content"></div>
     </li>
 </ul>
 
@@ -151,52 +152,53 @@ Each week's lesson comprises:
         <div class="col col-4">Course Material</div>
     </li>
     <li>
-        <div class="col col-1">3-1</div>
-        <div class="col col-1-2">Deploying Python Code</div>
-        <div class="col col-2">Building user interfaces in Jupyter notebooks, deploying a notebook as an HTML file</div>
-        <div class="col col-3">Functions</div>
-        <div class="col col-4 markdown-content">
-            <ul>
-                <li><a href="https://pynoon.github.io/curriculum/week_7/slides.html" target="_blank" rel="noopener">Slides</a></li>
-                <li><a href="https://colab.research.google.com/github/pynoon/curriculum/blob/main/week_7/week_7_tutorial.ipynb" target="_blank" rel="noopener">Tutorial Notebook</a></li>
-                <li><a href="https://colab.research.google.com/github/pynoon/curriculum/blob/main/week_7/week_7_exercise.ipynb" target="_blank" rel="noopener">Exercise Notebook</a></li>
-            </ul>
-        </div>
-    </li>
-    <li>
-        <div class="col col-1">3-2</div>
-        <div class="col col-1-2">Web APIs</div>
-        <div class="col col-2">Retrieving data from a web API</div>
+        <div class="col col-1">plus-1</div>
+        <div class="col col-1-2">About the course and AI-assisted programming</div>
+        <div class="col col-2">Using AI models from Python, loading data from a text file to construct a DataFrame</div>
         <div class="col col-3">Boolean operators</div>
         <div class="col col-4 markdown-content">
             <ul>
-                <li><a href="https://pynoon.github.io/curriculum/week_8/slides.html" target="_blank" rel="noopener">Slides</a></li>
-                <li><a href="https://colab.research.google.com/github/pynoon/curriculum/blob/main/week_8/week_8_tutorial.ipynb" target="_blank" rel="noopener">Tutorial Notebook</a></li>
-                <li><a href="https://colab.research.google.com/github/pynoon/curriculum/blob/main/week_8/week_8_exercise.ipynb" target="_blank" rel="noopener">Exercise Notebook</a></li>
+                <li><a href="https://pynoon.github.io/curriculum/tutorial/pynoon_introduction.pdf" target="_blank" rel="noopener">Intro Slides</a></li>
+                <li><a href="https://pynoon.github.io/curriculum/lesson_plus_1/slides.html" target="_blank" rel="noopener">Slides</a></li>
+                <li><a href="https://colab.research.google.com/github/pynoon/curriculum/blob/main/lesson_plus_1/lesson_plus_1_tutorial.ipynb" target="_blank" rel="noopener">Tutorial Notebook</a></li>
+                <li><a href="https://colab.research.google.com/github/pynoon/curriculum/blob/main/lesson_plus_1/lesson_plus_1_exercise.ipynb" target="_blank" rel="noopener">Exercise Notebook</a></li>
             </ul>
         </div>
     </li>
     <li>
-        <div class="col col-1">3-3</div>
-        <div class="col col-1-2">AI-Assisted Python Programming</div>
-        <div class="col col-2">Using AI models from Python, loading data from a text file to construct a DataFrame</div>
+        <div class="col col-1">plus-2</div>
+        <div class="col col-1-2">Web APIs</div>
+        <div class="col col-2">Retrieving data from a web API</div>
         <div class="col col-3">Tic Tac Toe Project</div>
         <div class="col col-4 markdown-content">
             <ul>
-                <li><a href="https://pynoon.github.io/curriculum/week_9/slides.html" target="_blank" rel="noopener">Slides</a></li>
-                <li><a href="https://colab.research.google.com/github/pynoon/curriculum/blob/main/week_9/week_9_tutorial.ipynb" target="_blank" rel="noopener">Tutorial Notebook</a></li>
-                <li><a href="https://colab.research.google.com/github/pynoon/curriculum/blob/main/week_9/week_9_exercise.ipynb" target="_blank" rel="noopener">Exercise Notebook</a></li>
+                <li><a href="https://pynoon.github.io/curriculum/lesson_plus_8/slides.html" target="_blank" rel="noopener">Slides</a></li>
+                <li><a href="https://colab.research.google.com/github/pynoon/curriculum/blob/main/lesson_plus_2/lesson_plus_2_tutorial.ipynb" target="_blank" rel="noopener">Tutorial Notebook</a></li>
+                <li><a href="https://colab.research.google.com/github/pynoon/curriculum/blob/main/lesson_plus_2/lesson_plus_2_exercise.ipynb" target="_blank" rel="noopener">Exercise Notebook</a></li>
             </ul>
         </div>
     </li>
     <li>
-        <div class="col col-1">3-4</div>
+        <div class="col col-1">plus-3</div>
+        <div class="col col-1-2">About the course and Deploying Python Code</div>
+        <div class="col col-2">Building user interfaces in Jupyter notebooks, deploying a notebook as an HTML file</div>
+        <div class="col col-3">N/A</div>
+        <div class="col col-4 markdown-content">
+            <ul>
+                <li><a href="https://pynoon.github.io/curriculum/lesson_plus_9/slides.html" target="_blank" rel="noopener">Slides</a></li>
+                <li><a href="https://colab.research.google.com/github/pynoon/curriculum/blob/main/lesson_plus_3/lesson_plus_3_tutorial.ipynb" target="_blank" rel="noopener">Tutorial Notebook</a></li>
+                <li><a href="https://colab.research.google.com/github/pynoon/curriculum/blob/main/lesson_plus_3/lesson_plus_3_exercise.ipynb" target="_blank" rel="noopener">Exercise Notebook</a></li>
+            </ul>
+        </div>
+    </li>
+    <li>
+        <div class="col col-1">plus-4</div>
         <div class="col col-1-2">What Next? (interesting topics for further learning)</div>
         <div class="col col-2">N/A</div>
         <div class="col col-3">N/A</div>
         <div class="col col-4 markdown-content">
             <ul>
-                <li><a href="https://pynoon.github.io/curriculum/week_10/slides.html" target="_blank" rel="noopener">Slides</a></li>
+                <li><a href="https://pynoon.github.io/curriculum/lesson_plus_4/slides.html" target="_blank" rel="noopener">Slides</a></li>
             </ul>
         </div>
     </li>
