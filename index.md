@@ -34,13 +34,13 @@ putting Python to work.
 
 <blockquote style="margin: 1em 0;">
   PyNoon is an exciting new community training initiative for
-  NZPUG. The popularity of Python is exploding and we want to make
+  Python New Zealand. The popularity of Python is exploding and we want to make
   it as easy as possible for people in a wide range of industries
   to write high-quality, well-engineered Python code. PyNoon is
   also an excellent entry point into the wider New Zealand Python
   community.
   <div style="text-align: right; padding-top: 1em;">
-    - Danny Adair, founder and past President of the NZ Python User Group
+    - Danny Adair, founder and past President of Python New Zealand
   </div>
 </blockquote>
 
