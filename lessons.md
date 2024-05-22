@@ -41,7 +41,7 @@ Each week's lesson comprises:
         <div class="col col-3">The Shell, String Basics, Variables</div>
         <div class="col col-4 markdown-content">
             <ul>
-                <li><a href="https://pynoon.github.io/curriculum/tutorial/pynoon_introduction.pdf" target="_blank" rel="noopener">Intro Slides</a></li>
+                <li><a href="https://pynoon.github.io/curriculum/introduction/pynoon_introduction.pdf" target="_blank" rel="noopener">Intro Slides</a></li>
                 <li><a href="https://pynoon.github.io/curriculum/lesson_starter_1/slides.html" target="_blank" rel="noopener">Slides</a></li>
                 <li><a href="https://colab.research.google.com/github/pynoon/curriculum/blob/main/lesson_starter_1/lesson_starter_1_tutorial.ipynb" target="_blank" rel="noopener">Tutorial Notebook</a></li>
                 <li><a href="https://colab.research.google.com/github/pynoon/curriculum/blob/main/lesson_starter_1/lesson_starter_1_exercise.ipynb" target="_blank" rel="noopener">Exercise Notebook</a></li>
@@ -93,7 +93,7 @@ Each week's lesson comprises:
         <div class="col col-3">Lists</div>
         <div class="col col-4 markdown-content">
             <ul>
-                <li><a href="https://pynoon.github.io/curriculum/tutorial/pynoon_introduction.pdf" target="_blank" rel="noopener">Intro Slides</a></li>
+                <li><a href="https://pynoon.github.io/curriculum/introduction/pynoon_introduction.pdf" target="_blank" rel="noopener">Intro Slides</a></li>
                 <li><a href="https://pynoon.github.io/curriculum/lesson_data_1/slides.html" target="_blank" rel="noopener">Slides</a></li>
                 <li><a href="https://colab.research.google.com/github/pynoon/curriculum/blob/main/lesson_data_1/lesson_data_1_tutorial.ipynb" target="_blank" rel="noopener">Tutorial Notebook</a></li>
                 <li><a href="https://colab.research.google.com/github/pynoon/curriculum/blob/main/lesson_data_1/lesson_data_1_exercise.ipynb" target="_blank" rel="noopener">Exercise Notebook</a></li>
@@ -158,7 +158,7 @@ Each week's lesson comprises:
         <div class="col col-3">Boolean operators</div>
         <div class="col col-4 markdown-content">
             <ul>
-                <li><a href="https://pynoon.github.io/curriculum/tutorial/pynoon_introduction.pdf" target="_blank" rel="noopener">Intro Slides</a></li>
+                <li><a href="https://pynoon.github.io/curriculum/introduction/pynoon_introduction.pdf" target="_blank" rel="noopener">Intro Slides</a></li>
                 <li><a href="https://pynoon.github.io/curriculum/lesson_plus_1/slides.html" target="_blank" rel="noopener">Slides</a></li>
                 <li><a href="https://colab.research.google.com/github/pynoon/curriculum/blob/main/lesson_plus_1/lesson_plus_1_tutorial.ipynb" target="_blank" rel="noopener">Tutorial Notebook</a></li>
                 <li><a href="https://colab.research.google.com/github/pynoon/curriculum/blob/main/lesson_plus_1/lesson_plus_1_exercise.ipynb" target="_blank" rel="noopener">Exercise Notebook</a></li>
