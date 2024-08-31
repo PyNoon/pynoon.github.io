@@ -6,6 +6,13 @@ permalink: /courses/
 
 # PyNoon Courses
 
+## Your PyNoon here?
+
+Interested in running a PyNoon? We'd love to talk to you! Just fill in
+the [Contact Form](/contact) and we'll get back to you. You can also
+read our [guide for TechNoon Course organisers](/organisers) to see
+what you'll need to run your own PyNoon course.
+
 ## PyNoon Wellington
 
 Coming soon!
