@@ -113,4 +113,25 @@ Each PyNoon lesson is **two hours long** and is structured to:
     </tbody>
 </table>
 
-![Class learning Python programming at 2degrees]({{ '/_images/pynoon_2degrees.jpg' | prepend: site.baseurl }})
+<div id="nanogallery">
+  {% for image in site.data.gallery.images %}
+  <a
+    href="{{ image.path | prepend: '/_images/gallery/' | prepend: site.baseurl }}"
+    data-ngthumb="{{ image.thumbnail_path | prepend: '/_images/gallery/' | prepend: site.baseurl }}"
+  >
+    {{ image.caption }}
+  </a>
+  {% endfor  %}
+</div>
+
+<script type="text/javascript">
+ jQuery("#nanogallery").nanogallery2({
+   viewerTools: {
+     topLeft: 'label',
+     topRight: 'fullscreenButton, closeButton',
+   },
+   thumbnailGutterWidth: 0, thumbnailGutterHeight: 0,
+   thumbnailBorderHorizontal: 1, thumbnailBorderVertical: 1,
+   thumbnailLabel: { display: false },
+ });
+</script>
