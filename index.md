@@ -44,7 +44,7 @@ putting Python to work.
   </div>
 </blockquote>
 
-## Learning objectives
+## Learning Objectives
 
 PyNoon is run as a series of **three 3-4 week** courses. You can
 choose to attend the courses that match your interests and skill
@@ -112,6 +112,8 @@ Each PyNoon lesson is **two hours long** and is structured to:
         </tr>
     </tbody>
 </table>
+
+## PyNoon in the Wild
 
 <div id="nanogallery">
   {% for image in site.data.gallery.images %}
