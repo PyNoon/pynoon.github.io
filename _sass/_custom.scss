@@ -89,3 +89,23 @@ a.flyer {
         text-decoration: none;
     }
 }
+
+
+#cooper-info {
+    display: flex;
+
+    img {
+        max-width: 35%;
+        margin-left: 2em;
+        object-fit: contain;
+    }
+
+    @media only screen and (max-width: 600px) {
+        display: block;
+
+        img {
+            max-width: 100%;
+            margin-left: 0;
+        }
+    }
+}

@@ -137,3 +137,35 @@ Each PyNoon lesson is **two hours long** and is structured to:
    thumbnailLabel: { display: false },
  });
 </script>
+
+## What's with the cowboy snake logo?
+
+<div id="cooper-info">
+
+  <div>
+    <p>
+      PyNoon's name is an homage to the classic
+      movie <a href="https://en.wikipedia.org/wiki/High_Noon">High
+      Noon</a>, hence our logo's Western, cowboy theme. The snake's
+      name is Cooper, after Gary Cooper, the lead actor in High Noon.
+    </p>
+    <p>
+      Cooper is featured on PyNoon stickers and t-shirts, and makes
+      IRL appearances in the form of a plush toy snake.
+    </p>
+    <p>
+      If you spot Cooper in the wild, we'd love to see your photos!
+      Come share them in
+      the <a href="https://pythonnz.slack.com/archives/C07N9RC5RSA">#pynoon
+      channel on the Python NZ Slack</a>.
+    </p>
+  </div>
+
+  <img src="{{ '/_images/cooper-irl.png' | prepend: site.baseurl }}">
+
+</div>
+
+<div style="margin-top: 30px;">
+  <img style="width: 40%; object-fit: contain;" src="{{ '/_images/pynoon-tshirts.png' | prepend: site.baseurl }}">
+  <img style="width: 55%; margin-left: 30px; object-fit: contain;" src="{{ '/_images/pynoon-stickers.png' | prepend: site.baseurl }}">
+</div>
