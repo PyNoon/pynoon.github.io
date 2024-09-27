@@ -172,7 +172,7 @@ Each week's lesson comprises:
         <div class="col col-3">Tic Tac Toe Project</div>
         <div class="col col-4 markdown-content">
             <ul>
-                <li><a href="https://pynoon.github.io/curriculum/lesson_plus_8/slides.html" target="_blank" rel="noopener">Slides</a></li>
+                <li><a href="https://pynoon.github.io/curriculum/lesson_plus_2/slides.html" target="_blank" rel="noopener">Slides</a></li>
                 <li><a href="https://colab.research.google.com/github/pynoon/curriculum/blob/main/lesson_plus_2/lesson_plus_2_tutorial.ipynb" target="_blank" rel="noopener">Tutorial Notebook</a></li>
                 <li><a href="https://colab.research.google.com/github/pynoon/curriculum/blob/main/lesson_plus_2/lesson_plus_2_exercise.ipynb" target="_blank" rel="noopener">Exercise Notebook</a></li>
             </ul>
@@ -185,7 +185,7 @@ Each week's lesson comprises:
         <div class="col col-3">N/A</div>
         <div class="col col-4 markdown-content">
             <ul>
-                <li><a href="https://pynoon.github.io/curriculum/lesson_plus_9/slides.html" target="_blank" rel="noopener">Slides</a></li>
+                <li><a href="https://pynoon.github.io/curriculum/lesson_plus_3/slides.html" target="_blank" rel="noopener">Slides</a></li>
                 <li><a href="https://colab.research.google.com/github/pynoon/curriculum/blob/main/lesson_plus_3/lesson_plus_3_tutorial.ipynb" target="_blank" rel="noopener">Tutorial Notebook</a></li>
                 <li><a href="https://colab.research.google.com/github/pynoon/curriculum/blob/main/lesson_plus_3/lesson_plus_3_exercise.ipynb" target="_blank" rel="noopener">Exercise Notebook</a></li>
             </ul>
